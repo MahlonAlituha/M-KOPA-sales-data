@@ -61,10 +61,12 @@ Grid TV was noted to have the highest daily top up of KES 126.25
 | Lights         |        47.6667 |
 | Solar TV       |       120      |
 
-The sales trends of the different models appeared as below; It is noted that we have peak sales in December and very poor perfromance in August!
+The sales trends of the different models appeared as below; It is noted that we have peak sales in December and very poor perfromance in May!
 
 ![image](https://github.com/MahlonAlituha/M-KOPA-sales-data/assets/113599890/0fd5fb49-4b77-40dc-aa33-d73516b75c61)
 
 The monthly revenue trend is aswell shown by the line graph below. 
 ![image](https://github.com/MahlonAlituha/M-KOPA-sales-data/assets/113599890/4b38cfa5-5c1a-49c6-8763-533414109fb1)
+
+The live dashboard can be found on my public tableau page at https://public.tableau.com/app/profile/mahlon.alituha
 
