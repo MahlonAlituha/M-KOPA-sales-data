@@ -35,4 +35,24 @@ The data cleaning involved getting rid of raws with null values as well as outli
 Sales were analysed by the groupby function to understand which payment plan had the highest sales for each particular month.
 
 
+| Month     | Payment Plan Name   |   Sales |
+|:----------|:--------------------|--------:|
+| January   | MK 6000 32" TV v22  |    1163 |
+| February  | MK 6000 32" TV v22  |     630 |
+| March     | MK 600 24" TV v20   |     599 |
+| April     | MK 600 24" TV v20   |     615 |
+| May       | MK 600 24" TV v20   |     124 |
+| June      | MK 6000 32" TV v20  |    1234 |
+| July      | MK 6000 32" TV v21  |    1279 |
+| August    | MK 6000 32" TV v21  |    2109 |
+| September | MK 6000 32" TV v22  |    1097 |
+| October   | MK 600 24" TV v18   |     649 |
+| November  | MK 600 24" TV v18   |     628 |
+| December  | MK 600 24" TV v20   |    1608 |
+
+A revenue column was added to the dataframe and it was got as a multiplication of the unit and price of each product sold
+
+
+
+
 
