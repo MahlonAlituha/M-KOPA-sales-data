@@ -17,3 +17,22 @@ The following business questions have been presented to enable the team at M-KOP
      3) Which Product Type had the highest average daily top up?
      4) How does the sales trend of a particular Model change over time?
      5) What is the monthly revenue trend for a particular Masterbrand?
+
+## Skills/Concepts applied:
+
+    Data Cleaning
+    Data analysis using Python
+    Power Pivot
+    Data Visualization over Tableau and Matplotlib
+    Dashboard Building
+
+#### Data cleaning 
+
+The data cleaning involved getting rid of raws with null values as well as outliers found in the price and sales columns, a particular raw stated a product to cost 1 KES and a single unit sold over the past year. Not such a common scenario based on intuition that no electric device could cost 1 Kenya Shilling.
+
+#### Data Analysis
+
+Sales were analysed by the groupby function to understand which payment plan had the highest sales for each particular month.
+
+
+
