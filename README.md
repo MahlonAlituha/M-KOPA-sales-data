@@ -50,9 +50,19 @@ Sales were analysed by the groupby function to understand which payment plan had
 | November  | MK 600 24" TV v18   |     628 |
 | December  | MK 600 24" TV v20   |    1608 |
 
-A revenue column was added to the dataframe and it was got as a multiplication of the unit and price of each product sold
+A revenue column was added to the dataframe and it was got as a multiplication of the unit and price of each product sold. It is noted that M-KOPA 6000 made the highest revenue whilst M-KOPA +500 made the least revenue the past financial year. All other revenue generating subcategories are as seen below;
 
+![image](https://github.com/MahlonAlituha/M-KOPA-sales-data/assets/113599890/78ff8eb0-8eaa-4a8a-bdff-e6296d965408)
 
+Grid TV was noted to have the highest daily top up of KES 126.25
+| Product Type   |   Daily Top Up |
+|:---------------|---------------:|
+| Grid TV        |       126.25   |
+| Lights         |        47.6667 |
+| Solar TV       |       120      |
 
+The sales trends of the different models appeared as below; It is noted that we have peak sales in December and very poor perfromance in August!
+
+![image](https://github.com/MahlonAlituha/M-KOPA-sales-data/assets/113599890/0fd5fb49-4b77-40dc-aa33-d73516b75c61)
 
 
