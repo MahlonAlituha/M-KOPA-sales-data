@@ -65,4 +65,6 @@ The sales trends of the different models appeared as below; It is noted that we 
 
 ![image](https://github.com/MahlonAlituha/M-KOPA-sales-data/assets/113599890/0fd5fb49-4b77-40dc-aa33-d73516b75c61)
 
+The monthly revenue trend is aswell shown by the line graph below. 
+![image](https://github.com/MahlonAlituha/M-KOPA-sales-data/assets/113599890/4b38cfa5-5c1a-49c6-8763-533414109fb1)
 
